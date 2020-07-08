@@ -52,7 +52,7 @@
     "fs": "0.0.1-security",
     "iconv-lite": "^0.5.1",
     "jest-cli": "^25.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
